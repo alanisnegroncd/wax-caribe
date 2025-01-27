@@ -17,7 +17,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'NegronCaribe'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://alanisnegroncd.github.io'
 baseurl:          '/wax-caribe/'
